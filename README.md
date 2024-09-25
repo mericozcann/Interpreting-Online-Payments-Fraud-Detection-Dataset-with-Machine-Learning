@@ -1,5 +1,6 @@
 # Project: Global AI Hub Aygaz Machine Learning Bootcamp Project - Interpretation of Data Set with Supervised and Unsupervised Learning Models
-# Kaggle Link: https://www.kaggle.com/code/merizcan/interpreting-payments-fraud-detection-with-m-l/notebook
+# Kaggle Link of Project: https://www.kaggle.com/code/merizcan/interpreting-payments-fraud-detection-with-m-l/notebook
+# Kaggle Link of Dataset: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 ## Dataset
 The dataset was selected from Kaggle and contains data for detecting fraud in online payments. This dataset contains more than 10,000 data points and its size exceeds 10MB.
@@ -24,7 +25,8 @@ Unsupervised learning algorithms:
 SVM model achieved the highest accuracy in supervised learning. The KNN model has the second highest performance. In unsupervised learning algorithms, similar results were obtained between K-Means and Hierarchical Clustering.
 
 # Proje: Global AI Hub Aygaz Makine Öğrenmesi Bootcamp Projesi - Veri Setinin Gözetimli ve Gözetimsiz Öğrenme Modelleri İle Yorumlanması
-# Kaggle Linki: https://www.kaggle.com/code/merizcan/interpreting-payments-fraud-detection-with-m-l/notebook
+# Projenin Kaggle Linki: https://www.kaggle.com/code/merizcan/interpreting-payments-fraud-detection-with-m-l/notebook
+# Veri Setinin Kaggle Linki: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 ## Veri Seti
 Veri seti Kaggle'dan seçilmiştir ve online ödemelerde dolandırıcılığı tespit etmeye yönelik veriler içermektedir. Bu veri seti, 10.000'den fazla veri noktası içermekte olup boyutu 10MB'yi aşmaktadır.
